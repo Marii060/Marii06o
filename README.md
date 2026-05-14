@@ -12,9 +12,7 @@ Especializándome en el desarrollo backend con Python y Django.
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-### 📈 Mis Estadísticas de GitHub
-![Marii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marii06o&show_icons=true&theme=vision-glow)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marii06o&layout=compact&theme=vision-glow)
+
 ### 🚀 Proyectos Actuales
 * **Soluciones Apache:** Sistema de inventarios para talleres de motos desarrollado en Django.
 
