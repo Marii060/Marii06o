@@ -1,5 +1,5 @@
 <img src="https://photos.app.goo.gl/Sx5wnAUyjNMLpQGb9" width="100%"/>
-# ¡Hola! Soy Marii 👋
+¡Hola! Soy Marii 👋
 
 Tecnóloga en Análisis y Desarrollo de Software (ADSO) en el SENA.
 Me apasiona crear soluciones tecnológicas eficientes y actualmente estoy enfocada en el desarrollo Full-stack.
