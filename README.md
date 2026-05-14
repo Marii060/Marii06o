@@ -4,7 +4,7 @@
 Tecnóloga en Análisis y Desarrollo de Software (ADSO) en el SENA.
 Me apasiona crear soluciones tecnológicas eficientes y actualmente estoy enfocada en el desarrollo Full-stack.
 Especializándome en el desarrollo backend con Python y Django.
-📍Málaga, Santander, Colombia
+           📍Málaga, Santander, Colombia
 📍Bucaramanga, Santander, Colombia
 ### 🛠️ Tecnologías y Herramientas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
